@@ -1,0 +1,1960 @@
+{
+  "libraryBooks": [
+    {
+      "title": "Principle of Soft Computing",
+      "author": "SIN SIVANANDAM & SIN DEEPA",
+      "edition": "THIRD",
+      "code": "90911",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Artificial Intelligence: A Modern Approach",
+      "author": "STUART RUSSELL & PETER NORVIG",
+      "edition": "FOURTH",
+      "code": "90912",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Prolog Programming for Artificial Intelligence",
+      "author": "IVAN BRATKO",
+      "edition": "FOURTH",
+      "code": "90913",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Fundamental of Data Science",
+      "author": "SAMULE BURNS",
+      "edition": null,
+      "code": "89820",
+      "category": "Data Science"
+    },
+    {
+      "title": "Data Science from Scratch",
+      "author": "JOEL GRUS",
+      "edition": "SECOND",
+      "code": "89821",
+      "category": "Data Science"
+    },
+    {
+      "title": "Python for Data Analysis",
+      "author": "WES MCKINNEY",
+      "edition": "SECOND",
+      "code": "89786",
+      "category": "Data Science"
+    },
+    {
+      "title": "R for Data Science",
+      "author": "HADLEY WICKHAM & GARRETT GROLEMUND",
+      "edition": null,
+      "code": "89822",
+      "category": "Data Science"
+    },
+    {
+      "title": "Essential Math for Data Science",
+      "author": "THOMAS NIELSEN",
+      "edition": null,
+      "code": "89823",
+      "category": "Data Science"
+    },
+    {
+      "title": "Business Analytics",
+      "author": "S. CHRISTIAN ALBRIGHT & WAYNE L. WINSTON",
+      "edition": "SIXTH",
+      "code": "89789",
+      "category": "Data Science"
+    },
+    {
+      "title": "Practical Statistics for Data Science",
+      "author": "PETER BRUCE, ANDREW BRUCE & PETER GEDECK",
+      "edition": "FOURTH",
+      "code": "89782",
+      "category": "Statistics"
+    },
+    {
+      "title": "Statistics for Data Science",
+      "author": "JAMES D MILLER",
+      "edition": "THIRD",
+      "code": "89878",
+      "category": "Statistics"
+    },
+    {
+      "title": "All of Statistics: A Concise Course in Statistical Inference",
+      "author": "Larry Wasserman",
+      "edition": "2004",
+      "code": "ST103",
+      "category": "Statistics"
+    },
+    {
+      "title": "The Elements of Statistical Learning",
+      "author": "TREVOR HASTIE, ROBERT TIBSHIRANI, JEROME FRIEDMAN",
+      "edition": "SECOND",
+      "code": "ST104",
+      "category": "Statistics"
+    },
+    {
+      "title": "Deep Learning",
+      "author": "IAN GOODFELLOW, YOSHUA BENGIO & AARON COURVILLE",
+      "edition": null,
+      "code": "90909",
+      "category": "Machine Learning"
+    },
+    {
+      "title": "Pattern Recognition & Machine Learning",
+      "author": "CHRISTOPHER M. BISHOP",
+      "edition": null,
+      "code": "95672",
+      "category": "Machine Learning"
+    },
+    {
+      "title": "Hands-On Machine Learning with Scikit-Learn & TensorFlow",
+      "author": "AURELIEN GERON",
+      "edition": "SECOND",
+      "code": "ML101",
+      "category": "Machine Learning"
+    },
+    {
+      "title": "Machine Learning: A Probabilistic Perspective",
+      "author": "KEVIN P. MURPHY",
+      "edition": null,
+      "code": "ML102",
+      "category": "Machine Learning"
+    },
+    {
+      "title": "Python Machine Learning",
+      "author": "SEBASTIAN RASCHKA & VAHID MIRJALILI",
+      "edition": "THIRD",
+      "code": "ML103",
+      "category": "Machine Learning"
+    },
+    {
+      "title": "Core Java Volume I",
+      "author": "CAY HORSTMANN",
+      "edition": "ELEVENTH",
+      "code": "PR101",
+      "category": "Programming"
+    },
+    {
+      "title": "Effective Java",
+      "author": "JOSHUA BLOCH",
+      "edition": "THIRD",
+      "code": "PR102",
+      "category": "Programming"
+    },
+    {
+      "title": "Python Crash Course",
+      "author": "ERIC MATTHES",
+      "edition": "SECOND",
+      "code": "PR103",
+      "category": "Programming"
+    },
+    {
+      "title": "Fluent Python",
+      "author": "LUCIANO RAMALHO",
+      "edition": "SECOND",
+      "code": "PR104",
+      "category": "Programming"
+    },
+    {
+      "title": "C++ Primer",
+      "author": "STANLEY LIPPMAN, JOSEÉ LAJOIE, BARBARA MOO",
+      "edition": "FIFTH",
+      "code": "PR105",
+      "category": "Programming"
+    },
+    {
+      "title": "Introduction to Algorithms",
+      "author": "THOMAS H. CORMEN et al.",
+      "edition": "FOURTH",
+      "code": "DSA101",
+      "category": "Data Structures & Algorithms"
+    },
+    {
+      "title": "Algorithms",
+      "author": "ROBERT SEDGEWICK & KEVIN WAYNE",
+      "edition": "FOURTH",
+      "code": "DSA102",
+      "category": "Data Structures & Algorithms"
+    },
+    {
+      "title": "Algorithm Design Manual",
+      "author": "STEVEN SKIENA",
+      "edition": "SECOND",
+      "code": "DSA103",
+      "category": "Data Structures & Algorithms"
+    },
+    {
+      "title": "Computer Networking: A Top-Down Approach",
+      "author": "JAMES KUROSE & KEITH ROSS",
+      "edition": "SEVENTH",
+      "code": "CN101",
+      "category": "Computer Networks & Security"
+    },
+    {
+      "title": "Cryptography & Network Security",
+      "author": "WILLIAM STALLINGS",
+      "edition": "SEVENTH",
+      "code": "CN102",
+      "category": "Computer Networks & Security"
+    },
+    {
+      "title": "Internet of Things: A Hands-On Approach",
+      "author": "ARSHDEEP BAHGA & VIJAY MADISETTI",
+      "edition": null,
+      "code": "CN103",
+      "category": "Computer Networks & Security"
+    },
+    {
+      "title": "Digital Image Processing",
+      "author": "RAFAEL C. GONZALEZ & RICHARD E. WOODS",
+      "edition": "FOURTH",
+      "code": "IP101",
+      "category": "Image Processing"
+    },
+    {
+      "title": "Computer Graphics with OpenGL",
+      "author": "DONALD HEARN & M. PAULINE BAKER",
+      "edition": "FOURTH",
+      "code": "CG101",
+      "category": "Computer Graphics"
+    },
+    {
+      "title": "Database System Concepts",
+      "author": "ABRAHAM SILBERSCHATZ, HENRY KORTH, S. SUDARSHAN",
+      "edition": "SIXTH",
+      "code": "DB101",
+      "category": "Database Systems"
+    },
+    {
+      "title": "Fundamentals of Database Systems",
+      "author": "ELMASRI & NAVATHE",
+      "edition": "SEVENTH",
+      "code": "DB102",
+      "category": "Database Systems"
+    },
+    {
+      "title": "Data Warehousing in the Real World",
+      "author": "SAM ANAHORY & DENNIS MURRAY",
+      "edition": null,
+      "code": "DB103",
+      "category": "Database Systems"
+    },
+    {
+      "title": "Quantitative Aptitude",
+      "author": "R.S. AGGARWAL",
+      "edition": null,
+      "code": "AP101",
+      "category": "Aptitude & Competitive Exams"
+    },
+    {
+      "title": "How to Prepare for Quantitative Aptitude for CAT",
+      "author": "ARUN SHARMA",
+      "edition": null,
+      "code": "AP102",
+      "category": "Aptitude & Competitive Exams"
+    },
+    {
+      "title": "Verbal & Non-Verbal Reasoning",
+      "author": "R.S. AGGARWAL",
+      "edition": null,
+      "code": "AP103",
+      "category": "Aptitude & Competitive Exams"
+    },
+    {
+      "title": "Business Research Methods",
+      "author": "DONALD COOPER & PAMELA SCHINDLER",
+      "edition": "TWELFTH",
+      "code": "BM101",
+      "category": "Business & Management"
+    },
+    {
+      "title": "Organizational Behaviour",
+      "author": "STEPHEN P. ROBBINS & TIMOTHY A. JUDGE",
+      "edition": "SEVENTEENTH",
+      "code": "BM102",
+      "category": "Business & Management"
+    },
+    {
+      "title": "Marketing Management",
+      "author": "PHILIP KOTLER & KEVIN LANE KELLER",
+      "edition": "FIFTEENTH",
+      "code": "BM103",
+      "category": "Business & Management"
+    },
+    {
+      "title": "Human Resource Management",
+      "author": "GARY DESSLER",
+      "edition": "FIFTEENTH",
+      "code": "BM104",
+      "category": "Business & Management"
+    },
+    {
+      "title": "Operations Management",
+      "author": "JAY HEIZER & BARRY RENDER",
+      "edition": "TWELFTH",
+      "code": "BM105",
+      "category": "Business & Management"
+    },
+    {
+      "title": "Data Mining: Concepts & Techniques",
+      "author": "JIAWEI HAN, MICHELINE KAMBER, JIAN PEI",
+      "edition": "THIRD",
+      "code": "DSC101",
+      "category": "Data Science"
+    },
+    {
+      "title": "Big Data: Principles & Best Practices",
+      "author": "PRAMOD ANANTHARAMAN",
+      "edition": null,
+      "code": "DSC102",
+      "category": "Data Science"
+    },
+    {
+      "title": "An Introduction to Statistical Learning",
+      "author": "GARETH JAMES, DANIELA WITTEN, TREVOR HASTIE, ROBERT TIBSHIRANI",
+      "edition": "SECOND",
+      "code": "ST105",
+      "category": "Statistics"
+    },
+    {
+      "title": "Applied Multivariate Statistical Analysis",
+      "author": "RICHARD JOHNSON & DEAN WICHERN",
+      "edition": "SIXTH",
+      "code": "ST106",
+      "category": "Statistics"
+    },
+    {
+      "title": "Time Series Analysis",
+      "author": "ROBERT H. SHUMWAY & DAVID S. STOFFER",
+      "edition": "FOURTH",
+      "code": "ST107",
+      "category": "Statistics"
+    },
+    {
+      "title": "Bayesian Data Analysis",
+      "author": "ANDREW GELMAN et al.",
+      "edition": "THIRD",
+      "code": "ST108",
+      "category": "Statistics"
+    },
+    {
+      "title": "Introduction to Probability",
+      "author": "DIMITRI BERTSIMAS & JOHN TSITSIKLIS",
+      "edition": null,
+      "code": "ST109",
+      "category": "Statistics"
+    },
+    {
+      "title": "Artificial Neural Networks",
+      "author": "BHUVANESWARI PAI",
+      "edition": null,
+      "code": "AI101",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Reinforcement Learning: An Introduction",
+      "author": "RICHARD S. SUTTON & ANDREW G. BARTO",
+      "edition": "SECOND",
+      "code": "AI102",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Knowledge Representation & Reasoning",
+      "author": "RONALD B. Brachman & Hector J. Levesque",
+      "edition": null,
+      "code": "AI103",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Speech & Language Processing",
+      "author": "DAN JURAFSKY & JAMES H. MARTIN",
+      "edition": "THIRD",
+      "code": "AI104",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "AI Superpowers",
+      "author": "KAI-FU LEE",
+      "edition": null,
+      "code": "AI105",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Cloud Computing: Principles & Paradigms",
+      "author": "RAJKUMAR BUYYA",
+      "edition": null,
+      "code": "CC101",
+      "category": "Computer Networks & Security"
+    },
+    {
+      "title": "Modern Operating Systems",
+      "author": "ANDREW TANENBAUM",
+      "edition": "FOURTH",
+      "code": "OS101",
+      "category": "Computer Networks & Security"
+    },
+    {
+      "title": "Operating System Concepts",
+      "author": "ABRAHAM SILBERSCHATZ, PETER B. GALVIN, GREG GAGNE",
+      "edition": "NINTH",
+      "code": "OS102",
+      "category": "Computer Networks & Security"
+    },
+    {
+      "title": "Compilers: Principles, Techniques, and Tools",
+      "author": "ALFRED V. AHO, MONICA LAM, RAVI SETHI, JEFFREY D. ULLMAN",
+      "edition": "SECOND",
+      "code": "CS101",
+      "category": "Programming"
+    },
+    {
+      "title": "Structure & Interpretation of Computer Programs",
+      "author": "HAROLD ABELSON, GERALD JAY SUSSMMAN",
+      "edition": "SECOND",
+      "code": "CS102",
+      "category": "Programming"
+    },
+    {
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "ROBERT C. MARTIN",
+      "edition": null,
+      "code": "CS103",
+      "category": "Programming"
+    },
+    {
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "ERICH GAMMA et al.",
+      "edition": null,
+      "code": "CS104",
+      "category": "Programming"
+    },
+    {
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "author": "MARTIN FOWLER",
+      "edition": "SECOND",
+      "code": "CS105",
+      "category": "Programming"
+    }
+  ],
+  "Faculty": [
+    {
+      "name": "Mujtaba Shaikh",
+      "department": "DSAI",
+      "position": "Assistant Professor",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/faculty_photos%2Fmujtaba_photo.jpg?alt=media&token=b2e6a1ae-87b1-44ec-8ace-d0079a54e047",
+      "subjectTaught": [
+        {
+          "subjects": [
+            "Python Programming-I"
+          ],
+          "yearAlias": "FY",
+          "year": 1
+        },
+        {
+          "subjects": [
+            "Data Structures"
+          ],
+          "yearAlias": "SY",
+          "year": 2
+        },
+        {
+          "subjects": [
+            "Big Data"
+          ],
+          "yearAlias": "TY",
+          "year": 3
+        }
+      ]
+    },
+    {
+      "name": "Wasif Shah",
+      "department": "MATHEMATICS",
+      "position": "Assistant Professor",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/faculty_photos%2Fshahwasif.jpg?alt=media&token=4a8e6b01-d874-48ec-850c-9e23cfcbc4d0",
+      "subjectTaught": [
+        {
+          "subjects": [
+            "Vedic Mathematics",
+            "Mathematics for Data Science"
+          ],
+          "yearAlias": "FY",
+          "year": 1
+        }
+      ]
+    },
+    {
+      "name": "Deepak",
+      "department": "DSAI",
+      "position": "Assistant Professor",
+      "photoUrl": "",
+      "subjectTaught": [
+        {
+          "subjects": [
+            "Business Intelligence (BI)",
+            "Data Mining"
+          ],
+          "yearAlias": "TY",
+          "year": 3
+        }
+      ]
+    },
+    {
+      "name": "Akash Gupta",
+      "department": "BMS",
+      "position": "Assistant Professor",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/faculty_photos%2FAkashGupta.jpg?alt=media&token=c4d5a1cc-0b6d-401d-9a95-bfd5e05fe5fe",
+      "subjectTaught": [
+        {
+          "subjects": [
+            "Financial Management"
+          ],
+          "yearAlias": "FY",
+          "year": 1
+        }
+      ]
+    },
+    {
+      "name": "Darpana More",
+      "department": "DSAI",
+      "position": "Assistant Professor",
+      "photoUrl": "",
+      "subjectTaught": [
+        {
+          "subjects": [
+            "Soft Skills"
+          ],
+          "yearAlias": "FY",
+          "year": 1
+        }
+      ]
+    },
+    {
+      "name": "Sujata Kotian",
+      "department": "DSAI",
+      "position": "HOD",
+      "photoUrl": "",
+      "subjectTaught": [
+        {
+          "subjects": [
+            "Introduction to DS",
+            "Green Computing(GC)"
+          ],
+          "yearAlias": "FY",
+          "year": 1
+        },
+        {
+          "subjects": [
+            "ADBMS",
+            "RM-I"
+          ],
+          "yearAlias": "SY",
+          "year": 2
+        },
+        {
+          "subjects": [
+            "DVT"
+          ],
+          "yearAlias": "TY",
+          "year": 3
+        }
+      ]
+    },
+    {
+      "name": "Rahul Yadav",
+      "department": "DSAI",
+      "position": "Assistant Professor",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/faculty_photos%2Frahul_photo.jpg?alt=media&token=4b307901-924a-4aa2-916e-c133aeb37809",
+      "subjectTaught": [
+        {
+          "subjects": [
+            "Probability Distribution"
+          ],
+          "yearAlias": "FY",
+          "year": 1
+        },
+        {
+          "subjects": [
+            "Statistical Testing"
+          ],
+          "yearAlias": "SY",
+          "year": 2
+        }
+      ]
+    },
+    {
+      "name": "Shweta Gupta",
+      "department": "DSAI",
+      "position": "Assistant Professor",
+      "photoUrl": "",
+      "subjectTaught": [
+        {
+          "subjects": [
+            "E-Commerce"
+          ],
+          "yearAlias": "SY",
+          "year": 2
+        },
+        {
+          "subjects": [
+            "Fuzzy Logic",
+            "Introduction to Cloud Computing"
+          ],
+          "yearAlias": "TY",
+          "year": 3
+        }
+      ]
+    }
+  ],
+  "courses": {
+    "DSAI": {
+      "courseName": "B.Sc. in Data Science and Artificial Intelligence",
+      "programCode": "RJSUGDSAI",
+      "duration_years": 4,
+      "implementation_year": "2023-2024",
+      "duration_semesters": 8,
+      "status": "Introduced",
+      "pattern": "Semester",
+      "passing_marks": "40%",
+      "syllabus": {
+        "sem4": {
+          "pyqs_url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/pyqs%2Fsem4%2Fsem%204%20march%202025%20%20sy.pdf?alt=media&token=7179b93b-a6a4-49cd-903e-18ec7fb4f9f4"
+        },
+        "sem1": {
+          "notes": [
+            {
+              "url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/notes%2Fsem1_notes.pdf%2Fintroduction%20to%20data%20science.pdf?alt=media&token=251d1b17-230a-4614-b78c-de5d3ffe310a",
+              "subject": "Introduction to Data Science"
+            },
+            {
+              "url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/notes%2Fsem1_notes.pdf%2Fintoduction%20to%20financial%20management.pdf?alt=media&token=563aa6de-d138-41e4-83c0-5ced93033a03",
+              "subject": "Financial Management"
+            },
+            {
+              "url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/notes%2Fsem1_notes.pdf%2FDescriptive%20Statistics.pdf?alt=media&token=8e223494-a4e5-4b53-b14f-715b552ded76",
+              "subject": "Descriptive Statistics"
+            }
+          ],
+          "pyqs_url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/pyqs%2Fsem1%2Fsem%201%20october%202023.pdf?alt=media&token=a33a227e-4478-4175-bddb-3519c6b2ca7a",
+          "subjects": [
+            {
+              "name": "Introduction to Data Science",
+              "group": "Major - Mandatory",
+              "topics": [
+                "Data science in a big data world, Facets of data, The data science process, The big data ecosystem and data science",
+                "The data science process, Defining research goals and creating a project charter, Retrieving data, Cleansing, integrating, and transforming data, Exploratory data analysis, Build the models",
+                "Handling large data on a single computer, General techniques for handling large volumes of data, General programming tips for dealing with large \ndata sets, Case study 1: Predicting malicious URLs",
+                "First steps in big data, Join the NoSQL movement"
+              ],
+              "credits": {
+                "lecture": 2,
+                "total": 3,
+                "practical": 1
+              },
+              "practicals": [
+                "Perform Data Science Case Studies in Retail",
+                "Perform Data Science Case Studies in the Entertainment Industry",
+                "Perform Data Science Case Studies in the Travel Industry",
+                "Perform Data Science Case Studies in Social Media",
+                "Perform Data Science Case Studies in Healthcare",
+                "Perform Data Science Case Studies in Oil and Gas",
+                "Case study on Predicting malicious URLs",
+                "Case study Building a recommender system inside a database ",
+                "Perform Data Science Case Studies in Meteorology",
+                "Perform Data Science Case Studies in Banking and Finance ",
+                "Case study on Assessing risk when loaning money"
+              ],
+              "code": "RJMAJDSAI111",
+              "reference_books": [
+                "Introducing Data Science - BIG DATA, MACHINE LEARNING, AND MORE, USING PYTHON TOOLS by DAVY CIELEN, ARNO D. B. MEYSMAN, MOHAMED ALI published by MANNING SHELTER ISLAND",
+                "Data Science For Dummies, 2nd Edition by Lillian Pierson, Jake Porway ",
+                "The Data Science Handbook by Field Cady published by Wiley "
+              ]
+            },
+            {
+              "name": "Descriptive Statistics",
+              "topics": [
+                "Introduction to Statistics and Use in Business, Types of Data  and sampling, Different types of Scales, Presentation of Data",
+                "Measure of central  tendency, Measures of Dispersion, Concept of Skewness and Kurtosis",
+                "Correlation and regression analysis, Concept of linear regression",
+                "Time Series, Models of time series, Estimation of seasonal component"
+              ],
+              "reference_books": [
+                "Statistical Methods, An Introductory Text: Medhi J,New Age Internal LTD, Second Edition. ",
+                "Basic Statistics, Agarwal B.L, New Age International Ltd. ",
+                "Theory and Problems of statistics, Spiege M.R,Tata McGraw-Hill",
+                "Fundamentals of statistics, Volume-II, Goon A.M., GuptaM.K, Dasgupta B, The World Press Private Limited, Calcutta",
+                "Complete Business statistics, Aczel Sounder pandian, Tata McGraw Hill",
+                "Excel Data Analysis Modeling and simulation, Hector Gurrero Springer Second Edition. ",
+                " Data Analysis and Decision Making, Albright, Wilston, Zappe,Thomson"
+              ],
+              "credits": {
+                "lecture": 2,
+                "total": 3,
+                "practical": 1
+              },
+              "code": "RJMAJDSAI112",
+              "practicals": [
+                "Introduction to Excel: Data Tools, Formula Tools, Add-Ins",
+                "Using Formulas and Charts: Formula Writing,Functions,using Cell reference,Understanding Insert Tool",
+                "Data Entry and manipulation: VLOOKUP, HLOOKUP, Pivottable, Pivotchart",
+                "Data Validation, Measures Of Central tendency, Measures of Dispersion, Skewness & Kurtosis",
+                "Graphical Presentation with Excel -1 , Graphical Presentation with Excel–2 ",
+                "Correlation , Regression Analysis "
+              ],
+              "group": "Major - Mandatory"
+            },
+            {
+              "name": "Financial Management",
+              "topics": [
+                "Introduction to Financial Management, Goals, and Functions",
+                "Time Value of Money: Future Value and Present Value of Annuity",
+                "Types of Financing: Long Term, Medium Term, and Short Term Sources",
+                "Leverage: Operating, Financial, and Composite Leverage",
+                "Cost of Capital and WACC"
+              ],
+              "group": "OE",
+              "credits": {
+                "lecture": 3,
+                "total": 4,
+                "practical": 1
+              },
+              "practicals": [
+                "Time value of Money: Present Value and Future Value",
+                "Time value of Money: Present Value Annuity and Future Value Annuity",
+                "Perform EBIT and EPS Analysis ",
+                "Operating Leverage, Financial Leverage and Composite Leverage ",
+                "Show Relationship between Operating Leverage and Financial Leverage",
+                "Measurement of Cost of Capital: Equity and Preference Shares ",
+                "Measurement of Cost of Capital: Debentures and Retained Earnings ",
+                "Measurement of Cost of Capital and Marginal Capital ",
+                "Measurement of Cost of WACC",
+                "Basic Financial Statements of a company"
+              ],
+              "code": "RJOECDSAI111",
+              "reference_books": [
+                "Rostogi, Fundamentals of Financial Management, Taxmann Publications",
+                "Fundamental of Financial Management, Sharma, Gupta, Kalyani Publishers, New Delhi",
+                "Pandey, I.M. Financial Management. Vikas Publications"
+              ]
+            },
+            {
+              "name": "Python for Data Science - I",
+              "topics": [
+                "Introduction to Python Language, Data Types, Variables And Other Basic Elements, Input and Output Operations",
+                "Control Statements, Operators, Functions",
+                "Arrays, Strings, Lists and Tuples"
+              ],
+              "group": "VSC",
+              "credits": {
+                "lecture": 2,
+                "total": 2,
+                "practical": 0
+              },
+              "code": "RJVSCDSAI111",
+              "reference_books": [
+                "Programming through Python M. T. Savaliya, R.KMaurya,G.M Magar Staredu Solutions 1st 2018.",
+                "Python Data Science Handbook Jake Vander Plas  O'Reilly Media 1st 2016",
+                "Let Us Python Y.Kanetkar, BPB 1st 2019",
+                "Programming in Python3 Mark Summerfield Pearson Education 2nd 2018",
+                "Learning Python LutzM O’ReillyShroff 5th 2013",
+                "Beginning Python Magnus Lie Hetland Apress 2nd 2009",
+                "Star Python Star Certification 1st 2018"
+              ]
+            },
+            {
+              "topics": [
+                "Algebra of Matrices, System of Linear equation, Vector Space",
+                "Linear Mapping, Inner product spaces and orthogonality",
+                "Determinants, Diagonalization"
+              ],
+              "name": "Mathematics for Data Science",
+              "reference_books": [
+                "Coding the Matrix Linear Algebra through Applications to Computer Science by PHILIP N. KLEIN Newtonian Press 1st Edition 2013 ",
+                "MATHEMATICS FOR MACHINE LEARNING by Marc Peter Deisenroth A. Aldo Faisal Cheng Soon Ong ",
+                "MATHEMATICAL FOUNDATIONS FOR DATA ANALYSIS by JEFF M. PHILLIPS "
+              ],
+              "credits": {
+                "lecture": 2,
+                "total": 2,
+                "practical": 0
+              },
+              "code": "RJSECDSAI111",
+              "group": "SEC"
+            },
+            {
+              "name": "Soft Skill Development",
+              "reference_books": [
+                "Soft Skills: an Integrated Approach to Maximise Personality, Gajendra S. Chauhan, \nSangeeta Sharma, Wiley India",
+                "Personality Development and Soft Skills, Barun K. Mitra, Oxford Press",
+                "Business Communication, Shalini Kalia, Shailja Agrawal, Wiley India",
+                "Soft Skills - Enhancing Employability, M. S. Rao, I. K. International  ",
+                "Cornerstone: Developing Soft Skills, Sherfield, Pearson India"
+              ],
+              "topics": [
+                "Personality Development: Knowing Yourself, Positive Thinking, Johari's Window, Etiquette and Mannerism: Introduction, Professional Etiquette, Technology Etiquette",
+                "Employment Communication: Resume, CV, Cover Letter, Professional Presentation, Job Interviews",
+                "Group Discussion, Creativity at Workplace, Ethical Values"
+              ],
+              "credits": {
+                "lecture": 2,
+                "total": 2,
+                "practical": 0
+              },
+              "code": "RJAECDSAI111",
+              "group": "AEC"
+            },
+            {
+              "topics": [
+                "Overview and Issues: Power Consumption, Equipment Disposal, Carbon Footprint",
+                "Cooling: Calculating and Reducing Cooling Costs, Datacentre Design",
+                "Going Paperless: Organizational Realities, Electronic Data Interchange (EDI)",
+                "Minimizing Power Usage: Virtualization, Data Deduplication, Low-Power Hardware"
+              ],
+              "reference_books": [
+                "Green IT Toby Velte, Anthony Velte, Robert Elsenpeter McGraw Hill 2008",
+                "Green Data Center: Steps for the Journey Alvin Galea, Michael Schaefer, Mike Ebbers Shroff Publishers and Distributers 2011.",
+                "Green Computing and Green IT Best Practice Jason Harris Emereo ",
+                "Green Computing Tools and Techniques for Saving Energy, Money and Resources Bud E. Smith CRC Press 2014"
+              ],
+              "name": "Green Computing",
+              "credits": {
+                "lecture": 2,
+                "total": 2,
+                "practical": 0
+              },
+              "code": "RJVESDSAI111",
+              "group": "VES (Environmental Science)"
+            },
+            {
+              "topics": [
+                "History of Vedic mathematics, 16 sutras and 13 sub sutras, Vedic sutras for Addition and Subtraction",
+                "Vedic sutras for Multiplication and Division",
+                "Squares, Cubes, and Simultaneous Equations",
+                "Quadratic Equations and Trigonometry"
+              ],
+              "reference_books": [
+                "Vedic Mathematics, Jagadguru Shankaracharya Swami Sri Bharati Krishna Tirthaji Maharaja, Motilal Banarsidass Publishers, New Delhi",
+                " Bharatiya Mathematicians, Sharda Sanskrit Sansthan, Varanasi.",
+                "Leelavati, Chokhambha Vidya Bhavan, Varanasi",
+                "Rajesh Kumar Thakur, Rupa Publishers, New Delhi"
+              ],
+              "name": "Vedic Math",
+              "credits": {
+                "lecture": 2,
+                "total": 2,
+                "practical": 0
+              },
+              "code": "RJIKSDSAI111",
+              "group": "IKS"
+            },
+            {
+              "name": "Co-Curricular (NSS/NCC/Field Trip)",
+              "type": "Activity-Based",
+              "assessment_grid": {
+                "2": "Quadrant II focuses on participation in departmental activities, festivals, signature events, and campaigns",
+                "4": "Quadrant IV encompasses activities for personal growth like Yoga Education, Jeevan Kaushal (Life Skills), Health and Wellness, and Self-Awareness programs",
+                "3": "Quadrant III includes participation in activities from other departments and inter-collegiate events, which must be supported by a certificate",
+                "1": "Quadrant I covers registration and participation in activities like NSS, NCC, DLLE, Sports, Cultural, and Rotaract"
+              },
+              "description": "A compulsory co-curricular course based on student participation in various activities. Assessment is based on a four-quadrant grid",
+              "credits": 2,
+              "code": "RJCUDS109",
+              "group": "CC"
+            }
+          ],
+          "syllabus_pdf_url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/syllabus%2Ffy%2FFYBSC%20DSAI_merged-1-31.pdf?alt=media&token=0524686f-3a3b-4080-8665-26ca65fc6c82"
+        },
+        "sem3": {
+          "notes": [
+            {
+              "url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/notes%2Fsem3_notes.pdf%2FADBMS.pdf?alt=media&token=8d3cd207-3201-4f92-ada3-c2b7d2bd8832",
+              "subject": "ADBMS"
+            },
+            {
+              "url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/notes%2Fsem3_notes.pdf%2FIntroduction%20to%20E-commerce.pdf?alt=media&token=e472e226-8063-4ac9-9913-9a66df21c7eb",
+              "subject": "E-commerce"
+            },
+            {
+              "url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/notes%2Fsem3_notes.pdf%2Freserch%20method.pdf?alt=media&token=96ee674c-45ad-4411-87e7-b7c32802f178",
+              "subject": "Research Method"
+            }
+          ],
+          "pyqs_url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/pyqs%2Fsem3%2Fsem%203%202024%20october.pdf?alt=media&token=89a46b0b-9f2e-4da5-8861-3000135f561d",
+          "subjects": [
+            {
+              "name": "ADBMS",
+              "code ": "RJMAJDSAI231",
+              "topics": [
+                "Joins, Transaction Concept ,Correlated Subqueries",
+                "Introduction to PLSQL, Loops, Conditions, and Cursors",
+                "Exception Handling, Procedures, Functions, and Triggers",
+                "Introduction to NoSQL and the CAP theorem"
+              ],
+              "credits": {
+                "lecture": 3,
+                "total": 4,
+                "practical": 1
+              },
+              "reference_books": [
+                "Database System Concepts, Silberschatz, Korth, McGraw hill, Sixth Edition",
+                "Database Management Systems, Raghurama Krishnan, Johannes Gehrke, TATA McGrawHill 3rd Edition",
+                "An Introduction to Database systems, C.J. Date, A.Kannan, S.Swami Nadhan, Pearson, Eight Edition for UNIT III",
+                "Fundamentals of Database Systems, Elmasri Navathe Pearson Education"
+              ],
+              "practicals": [
+                "Perform practical on various types of Joins (Left, Right, Inner, Outer, Self)",
+                "Perform practical on Transactions (Commit, Rollback, Savepoint)",
+                "Write PL/SQL programs for Exceptions, Cursors, Packages and Functions",
+                "Perform CRUD, Alter Operations in MONGODB",
+                "Write PL/SQL queries to create Procedures, Triggers"
+              ],
+              "group": "Major"
+            },
+            {
+              "name": "Data Structures",
+              "topics": [
+                "Introduction to Data Structures, Array, Stack, List data structures,  Abstract Data Types, Sets, and Maps",
+                "Linked Structures, Stacks, Queues, Priority Queues",
+                "Advanced Linked List, Singly, Doubly, and Circular Linked Lists, Recursion, Hash Table",
+                "Binary Trees, Heaps, Search Trees, Advanced Sorting"
+              ],
+              "group": "Major",
+              "credits": {
+                "lecture": 3,
+                "total": 4,
+                "practical": 1
+              },
+              "practicals": [
+                "Write a program that uses functions to perform the following operations on singly linked list i) Creation ii) Insertion iii) Deletion iv) Traversal",
+                "Write a program that uses functions to perform the following operations on doubly linked list i) Creation ii) Insertion iii) Deletion iv) Traversal",
+                "Write a program that uses functions to perform the following operations on circular linked List i) Creation ii) Insertion iii) Deletion iv) Traversal",
+                "Write a program that implement stack (its operations) using i) Arrays ii) Linked list(Pointers)",
+                "Write a program that implement Queue (its operations) using i) Arrays ii) Linked list(Pointers)",
+                "Write a program to implement a) Linear search b) Binary search",
+                "Write a program that implements the following i) Insertion sort ii) Merge sort iii)Heap\nsort",
+                " Write a program to perform the following operations: a) Insert an element into a binary\nsearch tree. b) Delete an element from a binary search tree. c) Search for a key element\nin a binary search tree",
+                "Write a program to implement the tree traversal methods"
+              ],
+              "code": "RJMAJDSAI232",
+              "reference_books": [
+                "Fundamentals of Python: Data Structures, Kenneth Lambert, Delmar Cengage Learning",
+                "Data Structure and Algorithmic Thinking with Python- Narasimha Karumanchi, 2015, Careermonk Publications",
+                "Data Structure and algorithm Using Python, Rance D. Necaise, 2016 Wiley India Edition",
+                "Data Structure and Algorithmic Thinking with Python- Narasimha Karumanchi, 2015, Careermonk Publications"
+              ]
+            },
+            {
+              "topics": [
+                "Standard distributions: binomial, normal, random variable, discrete, continuous, expectation and\nvariance of a random variable, pmf, pdf, cdf",
+                "Hypothesis testing: t-test, Normal, F-test, p-value",
+                "Analysis of variance (ANOVA): one-way, two-way",
+                "Non-parametric tests: sign test, Wilcoxon's signed rank test, Kruskal-Wallis"
+              ],
+              "name": "Statistical Testing",
+              "group": "Minor",
+              "credits": {
+                "lecture": 3,
+                "total": 4,
+                "practical": 1
+              },
+              "code": "RJMINDSAI231",
+              "practicals": [
+                "Problem based on binomial distribution and interpretation",
+                "Problem based on normal distribution and interpretation",
+                "Plotting of binomial and normal distribution",
+                "Problem based on Statistical test( e.g. t-test, Z-test, F-test)\n",
+                "Plotting of pdf and cdf of discrete and continuous distribution",
+                "Implementation of CRD and RBD",
+                "Problem based on one way and two way ANOVA",
+                "Problem based on non-parametric test-I",
+                "Problem based on non-parametric test-II",
+                "Problem based on Post- hoc analysis"
+              ],
+              "reference_books": [
+                "Gupta, S.C. and Kapoor, V.K. (2002) Fundamentals of Mathematical Statistics, S. Chand and Sons,\nNew Delhi",
+                " Douglas C. Montgomery - Design and Analysis of Experiments-John Wiley & Sons (2017)",
+                "Trivedi, K.S.(2009) Probability, Statistics, Design of Experiments and Queuing theory, with\napplications of Computer Science, PHI",
+                "Ross, S.M. (2006) A First course in probability. 6th Edⁿ Pearson",
+                "Fundamental of Testing Statistical hypothesis , A.santhakumaran",
+                "Theory of Statistical Hypothesis Testing, Amarendra Mishra, Second Edition",
+                "Testing statistical hypothesis, E.L.Lehmann,Joseph P.Romano Fourth Edition"
+              ]
+            },
+            {
+              "topics": [
+                "Introduction to Artificial Intelligence, AI Tools: GammaAI, HeyGen AI, Claude AI, ChatGPT, Adobe Firefly, etc.",
+                "Case Study: IBM Watson Health\n",
+                "Case Study: Tesla's Autonomous Vehicles",
+                "Case Study: Amazon Supply Chain Management",
+                "Tools: ElevenLabs, Remaker AI, Pika Labs, Prompt Optimizer, Globe Explorer, etc."
+              ],
+              "reference_books": [
+                "S. Russel and P. Norvig, “Artificial Intelligence – A Modern Approach”, SecondEdition, Pearson Education",
+                "David Poole, Alan Mackworth, Randy Goebel, ”Computational Intelligence : a logical approach”, Oxford University Press",
+                "G. Luger, “Artificial Intelligence: Structures and Strategies for complex problem solving”, Fourth Edition, Pearson Education",
+                "J. Nilsson, “Artificial Intelligence: A new Synthesis”, Elsevier Publishers"
+              ],
+              "name": "Artificial Intelligence Tools",
+              "credits": {
+                "lecture": 2,
+                "total": 2,
+                "practical": 0
+              },
+              "code": "RJOECDSAI231",
+              "group": "OEC"
+            },
+            {
+              "topics": [
+                "Introduction to Research Methodology, Defining the Research Problem, Research Design",
+                "Sampling Design, Census and Sample Survey, Implications of a Sample Design, Methods of Data Collection (Primary and Secondary)"
+              ],
+              "group": "VSC",
+              "name": "Research Methods - I",
+              "credits": {
+                "lecture": 2,
+                "total": 2,
+                "practical": 0
+              },
+              "code": "RJVSCDSAI231",
+              "reference_books": [
+                "Research Methodology – Methods and techniques by C. R. Kothari - New Age International (P) Ltd. Publishers",
+                "Business Research Methods by Donald R. Cooper Pamela Schindler - McGrawHill/Irwin",
+                "RESEARCH METHODOLOGY - a step by step guide for beginners by Ranjit Kumar - SAGE Publication Ltd"
+              ]
+            },
+            {
+              "name": "Co-Curricular",
+              "execution_details": [
+                "Enrollment in activities like NSS/NCC/Rotaract/DLLE/Sports is required",
+                "A CC Workbook will be provided to each student to record participation",
+                "Student participation in intra- and inter-collegiate events will be recorded",
+                "Engagement in programs like Societal Outreach or helping in natural calamities will be counted"
+              ],
+              "code": "RJCCDSAI231",
+              "type": "Activity-Based",
+              "group": "CC",
+              "assessment_grid": {
+                "2": "Quadrant II focuses on participation in departmental activities, festivals, signature events, and campaigns",
+                "4": "Quadrant IV encompasses activities for personal growth like Yoga Education, Jeevan Kaushal (Life Skills), Health and Wellness, and Self-Awareness programs.",
+                "3": "Quadrant III includes participation in activities from other departments and inter-collegiate events, which must be supported by a certificate",
+                "1": "Quadrant I covers registration and participation in activities like NSS, NCC, DLLE, Sports, Cultural, and Rotaract"
+              },
+              "credits": {
+                "total": 2
+              },
+              "description": "A student-centric activity for character building and prioritizing societal needs. Assessment is based on a four-quadrant grid"
+            }
+          ],
+          "syllabus_pdf_url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/syllabus%2Fsy%2FSYBSC%20DSAI_merged-1-19.pdf?alt=media&token=25482b46-0990-4949-baa8-8f0d4ad1757a"
+        },
+        "sem5": {
+          "notes": [
+            {
+              "url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/notes%2Fsem5_notes.pdf%2FUnit%201.pptx.pdf?alt=media&token=a77a68c6-7fbc-4b8e-af59-b8777731c9e8",
+              "subject": "DVT"
+            },
+            {
+              "url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/notes%2Fsem5_notes.pdf%2FDATA%20MINING%20NOTES-1-33.pdf?alt=media&token=667227f3-5bd3-497b-8708-2340ef3550d1",
+              "subject": "Data Mining"
+            },
+            {
+              "url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/notes%2Fsem5_notes.pdf%2Funit1_2.pdf?alt=media&token=5618e0dc-ed28-4ce5-bd9d-3aaaad30f18e",
+              "subject": "Fuzzy Logic"
+            }
+          ],
+          "pyqs_url": "",
+          "subjects": [
+            {
+              "topics": [
+                "Introduction to Fuzzy Sets and Membership",
+                "Classical and Fuzzy Relations",
+                "Membership Functions and Fuzzification",
+                "Fuzzy Logic & Rule-Based Systems",
+                "Fuzzy Decision Making and Classification"
+              ],
+              "reference_books": [
+                "Neural Networks and Fuzzy Logic System by Bart Kosko, PHI Publications",
+                "Neural Networks, Fuzzy logic, Genetic algorithms: synthesis and applications by Rajasekharan andRai - PHI Publication",
+                "Fuzzy Sets, Fuzzy Logic, and Fuzzy Systems by Lotfi A. Zadeh",
+                "Fuzzy logic with engineering application by Timothy J. Ross-wiley"
+              ],
+              "name": "Fuzzy Logic",
+              "credits": {
+                "lecture": 3,
+                "total": 4,
+                "practical": 1
+              },
+              "code": "RJDSCDSAI351",
+              "practicals": [
+                "Define a fuzzy set for temperature (Cold, Warm, Hot) using numpy and matplotlib",
+                "Plot different membership functions using skfuzzy.membership",
+                "Given two fuzzy sets for age groups (Young, Old), apply AND, OR, and NOT operations",
+                "Design a fuzzy system for a washing machine that adjusts water level based on dirt level and load size",
+                "Compute defuzzified output for a fuzzy temperature control system using the\nCentroid method",
+                "Build a fuzzy traffic control system that adjusts traffic lights based on congestion levels",
+                "Cluster IMDB movie ratings into categories (e.g., Hit, Average, Flop) using FCM"
+              ],
+              "group": "Major"
+            },
+            {
+              "name": "Project Documentation",
+              "topics": [
+                "Abstract, Problem Statement, and Objectives",
+                "Introduction and Literature Review",
+                "System Analysis and Feasibility Study",
+                "System Design, Architecture, DFD, and ER Diagrams",
+                "Implementation, Methodology, Results, and Analysis"
+              ],
+              "credits": {
+                "lecture": 2,
+                "total": 2,
+                "practical": 0
+              },
+              "code": "RJDSCDSAI353",
+              "group": "Major"
+            },
+            {
+              "topics": [
+                "Business intelligence architectures and Decision support systems",
+                "Mathematical models for decision making and Data mining process",
+                "Marketing, Logistic and production models",
+                "Knowledge Management and Artificial Intelligence/Expert Systems\n"
+              ],
+              "name": "Business Intelligence",
+              "reference_books": [
+                "Business Intelligence: Data Mining and Optimization for Decision Making Carlo Vercellis Wiley First 2009",
+                "Decision support and Business Intelligence Systems Efraim Turban, Ramesh Sharda,DursunDelen Pearson Ninth 2011 ",
+                "Fundamental of Business Intelligence Grossmann W, Rinderle-Ma Springer First 2015"
+              ],
+              "credits": {
+                "lecture": 4,
+                "total": 4,
+                "practical": 0
+              },
+              "code": "RJDSCDSAI354",
+              "practicals": [
+                "Perform ETL process to construct a database in Sqlserver",
+                "Create a data cube with dimension and fact tables",
+                "Execute MDX queries to extract data from the datawarehouse",
+                "Import datawarehouse data in Microsoft Excel and create Pivot tables/charts",
+                "Perform the Linear & Logistic regression on the given datawarehouse data"
+              ],
+              "group": "minor"
+            },
+            {
+              "topics": [
+                "Fundamentals, Deployment Models (Public, Private, Hybrid), and Service Models (IaaS, PaaS, SaaS)",
+                "Cloud Architecture: Virtualization, Containers, Storage, Networking, and Security",
+                "Cloud Service Providers (AWS, Azure, Google Cloud) and their key services",
+                "Serverless Computing, Infrastructure as Code, and Cloud-based Big Data/AI Services",
+                "Future Trends & Real-World Applications"
+              ],
+              "name": "Introduction to Cloud Computing",
+              "reference_books": [
+                "\"Cloud Computing: Concepts, Technology & Architecture\" – Thomas Erl, Ricardo Puttini, Zaigham Mahmood",
+                "Cloud Computing: A Hands-on Approach\" – Arshdeep Bahga, Vijay Madisetti",
+                "Architecting the Cloud: Design Decisions for Cloud Computing Service Models (SaaS, PaaS, IaaS)\" – Michael J. Kavis",
+                "AWS Certified Solutions Architect Study Guide\" – Ben Piper, David Clinton",
+                "Mastering Cloud Computing: Foundations and Applications Programming\" – Rajkumar Buyya, Christian Vecchiola, Thamarai Selvi"
+              ],
+              "credits": {
+                "lecture": 4,
+                "total": 4,
+                "practical": 0
+              },
+              "code": "RJDSEDSAI351",
+              "practicals": [
+                "Compare different cloud service providers (AWS, Azure, Google Cloud)",
+                "Deploy a Virtual Machine (VM) in AWS, Azure, or GCP",
+                "Deploy a simple web application on AWS/Azure/GCP",
+                "Set up IAM roles and policies in AWS/Azure",
+                "Deploy a serverless function on AWS Lambda or Google Cloud Functions",
+                "Perform a basic data analysis using Google BigQuery or AWS Athena",
+                "Build and deploy a fully functional cloud-based solution (e.g., e-commerce site,chatbot, data pipeline)"
+              ],
+              "group": "Elective"
+            },
+            {
+              "topics": [
+                "Introduction to Data Warehouse, DW Design Consideration And Dimensional Modeling, Models",
+                "Introduction to Data Mining, KDD, Data Preprocessing",
+                "Association Rules Mining, Classification And Prediction",
+                "Logistic Regression. Validating Model, Clustering"
+              ],
+              "reference_books": [
+                "Alex Berson, Stephen J.Smith, “Data warehousing Data mining and OLAP”, Tata McGraw- Hill, 2nd Edition",
+                "Jiawei Han, Michelin Kamber, “Data Mining-Concepts and techniques”, Morgan Kaufmann Publishers, Elsevier, 3nd Edition",
+                "Data Warehousing : Design, Development And Best Practices by Soumendra Mohanty (Author), Tata McGraw Hill Education (Publisher). "
+              ],
+              "name": "Data Mining ",
+              "credits": {
+                "lecture": 4,
+                "total": 4,
+                "practical": 0
+              },
+              "code": "RJDSEDSAI352",
+              "practicals": [
+                "Perform ETL processes on a sample dataset",
+                "Merge and transform datasets from multiple sources using pandas",
+                "Apply feature selection (variance threshold, correlation) with scikit-learn",
+                "Discretize continuous variables & create concept hierarchies for categorical data using pandas",
+                "Apply K-means clustering to group customers by purchasing behavior with scikit-learn",
+                "Implement Logistic Regression for predictions on sample data",
+                "Implement Linear Regression for predictions on sample data",
+                "Implement Naive Bayes to classify emails as spam or not using scikit-learn",
+                "Build a Decision Tree classifier to predict customer churn with scikit-learn",
+                "Use Apriori algorithm to find frequent itemsets & association rules from retail data"
+              ],
+              "group": "Elective"
+            },
+            {
+              "name": "Big Data",
+              "reference_books": [
+                "Big Data and Business analytics”, Jy Liebowitz, CRC press, 2013",
+                "Oracle Big Data Handbook”, Tom Plunkett, Brian Macdonald et al, Oracle Press, 2014",
+                "Big Data Analytics with R and Hadoop”, Vignesh Prajapati, Packet Publishing 2013",
+                "HADOOP: The definitive Guide”, Tom White, O Reilly 2012. 6 IT2015 SRM(E&T)",
+                "Understanding Big data”, Chris Eaton, Dirk deroos et al, McGraw Hill, 2012",
+                "Professional Hadoop Solutions”, Boris lublinsky, Kevin t. Smith, Alexey Yakubovich, Wiley, ISBN: 9788126551071, 2015"
+              ],
+              "topics": [
+                "Introduction to Big Data, Four Vs, and Hadoop Ecosystem",
+                "Hadoop Architecture, HDFS, NameNode, DataNode, and MapReduce Paradigm",
+                "Hadoop Ecosystem Components, Schedulers, and YARN",
+                "Hive and HiveQL, HBase Concepts, and Zookeeper"
+              ],
+              "credits": {
+                "lecture": 2,
+                "total": 2,
+                "practical": 0
+              },
+              "code": "RJVSCDSAI351",
+              "group": "VSC"
+            },
+            {
+              "name": "DVT",
+              "reference_books": [
+                "Python for Data Analysis: Data Wrangling with Pandas, NumPy and IPython by McKinney, W., 2nd edition. O‟Reilly Media, 2017",
+                "Doing Data Science: Straight Talk from the Frontline by O‟Neil, C., & Schutt, R, O‟Reilly Media, 2013\n",
+                "The Big Book of Dashboards by Steve Wexler, Jeffrey Shaffer, Andy Cotgreave, John Wiley & Sons, 2017\n",
+                "Practical Tableau by Ryan Sleeper, O‟Reilly Media, 2018",
+                "Power BI. Book-1, Business Intelligence Clinic: Create and Learn by Roger F Silva, 2018\n",
+                "Introducing Microsoft Power BI by Alberto Ferrari and Marco Russo, Microsoft Press, Washington, 2016"
+              ],
+              "topics": [
+                "Introduction to Exploratory Data Analysis (EDA) and Data Repositories",
+                "Data Sources , Data Wrangling, Cleaning, and Preparation with Web APIs and Databases",
+                "Intro to data visualization, Dashboarding and creating common visualizations with Tableau",
+                "Introduction to Power BI, Report Design, Visual Interactions, and Data Storytelling with Power BI"
+              ],
+              "credits": {
+                "lecture": 3,
+                "total": 4,
+                "practical": 1
+              },
+              "practicals": [
+                "Show Basic Visualization in Python",
+                "Show Basic Visualization in R",
+                "Connecting to Data and preparing data for visualization in Tableau",
+                "Use Data aggregation and statistical functions in Tableau",
+                "Show Data Visualization using Tableau",
+                "Use dashboards of Tableau",
+                "Show Data Visualization using PowerBi.",
+                "Show Data Visualization using DataWrapper.",
+                "Show Data Visualization using Gnatt Chart.",
+                "Show Data Visualization using Zoho",
+                "Publish visualised data on Cloud in PowerBi"
+              ],
+              "code": "RJDSCDSAI352",
+              "group": "Major"
+            }
+          ],
+          "syllabus_pdf_url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/syllabus%2Fty%2FTYBSC%20DSAI%20-1-22.pdf?alt=media&token=dbdbe90c-687c-473e-a12d-aa3c01a61f90"
+        },
+        "sem2": {
+          "pyqs_url": [
+            "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/pyqs%2Fsem2%2FFY%20DSAI%20sem%202%20march%202025.pdf?alt=media&token=e38b83eb-6249-42df-865e-ec5ca03658d6",
+            "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/pyqs%2Fsem2%2Fsem%202%20March%202024.pdf?alt=media&token=4e5f7d68-1b99-4bcb-8e10-9d3b430ddccb"
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "name": "Inter-Collegiate Departmental Festival 'INCEPTION 3.0'",
+      "status": "Planned",
+      "photo_gallery": [
+        ""
+      ],
+      "schedule": [
+        ""
+      ],
+      "category": "Departmental Fest",
+      "description": "The next edition of our annual departmental festival is currently in the planning stages. The final dates and list of activities are subject to change. For more further information, please stay up to date with official announcements",
+      "date_summary": "Expected around January - February 2026",
+      "venue": "To be announced"
+    },
+    {
+      "name": "Inter-Collegiate Departmental Festival 'INCEPTION'",
+      "report_summary": "A three-day departmental festival organized by the students of FYBSC DSAI and MSc DSAI, featuring a variety of technical and fun events",
+      "status": "Completed",
+      "photo_gallery": [
+        "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/event_photos%2Finception_2024%2F20240111_103448amByGPSMapCamera.jpg?alt=media&token=ab1f24bc-8af9-4564-b4c7-677dad830479",
+        "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/event_photos%2Finception_2024%2FIMG_2024.JPG?alt=media&token=43531680-e7b1-4989-908e-62948345eb88",
+        "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/event_photos%2Finception_2024%2FIMG_2034.JPG?alt=media&token=374f5beb-f2cc-4816-9970-965b4f74b5f3",
+        "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/event_photos%2Finception_2024%2FIMG_2258.JPG?alt=media&token=7541a8ec-d11c-47c2-8cad-d4236c05d998",
+        "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/event_photos%2Finception_2024%2FIMG_2262.JPG?alt=media&token=91d184d3-bf92-47af-b515-56e314e6126d"
+      ],
+      "schedule": [
+        {
+          "day": "Day 1 (Jan 11, 2024)",
+          "activities": [
+            "Inaugural ceremony",
+            "Smack the bug (debugging)",
+            "Magazine Front page design (online",
+            "Snakes and Ladder"
+          ]
+        },
+        {
+          "day": "Day 2 (Jan 12, 2024)",
+          "activities": [
+            "Tech Revive (Waste recycle)",
+            "Bounty Foray (Treasure Hunt)",
+            "Valedictory Function"
+          ]
+        },
+        {
+          "day": "Day 3 (Jan 13, 2024)",
+          "activities": [
+            "Visionary AI Challenge (online content creation)",
+            "Intellect Quest (online Quiz)"
+          ]
+        }
+      ],
+      "category": "Departmental Fest",
+      "date_summary": "January 11th, 12th & 13th, 2024",
+      "venue": "Lab and Quadrangle"
+    },
+    {
+      "name": "Inter-Collegiate Departmental Festival 'INCEPTION 2.0'",
+      "category": "Departmental Fest",
+      "schedule": [
+        {
+          "day": "Day 1 (Jan 10, 2025)",
+          "activities": [
+            {
+              "name": "Debugging",
+              "name ": "Tech Quiz",
+              "venue": "Saboo Lab",
+              "venue ": "online",
+              "time": "10:00 AM"
+            }
+          ]
+        },
+        {
+          "day": "Day 2 (Jan 11, 2025)",
+          "activities": [
+            {
+              "name": "Treasure Hunt",
+              "venue": "College Campus",
+              "time": "10AM - 1PM"
+            }
+          ]
+        }
+      ],
+      "description": "The second edition of our annual departmental festival...",
+      "date_summary": "January 10th & 11th, 2025",
+      "status": "Completed",
+      "photo_gallery": [
+        "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/event_photos%2Finception_2025%2FIMG_4853.JPG?alt=media&token=b26e09b4-12ce-47ed-9928-85e010fc0298",
+        "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/event_photos%2Finception_2025%2FIMG_4854.JPG?alt=media&token=8a2c25df-695c-442b-a7e2-5897a18f5ed0",
+        "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/event_photos%2Finception_2025%2FIMG_4957.JPG?alt=media&token=3899c7fb-ff23-4509-a774-bb9241cfa74f",
+        "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/event_photos%2Finception_2025%2FIMG_5075.JPG?alt=media&token=959302ad-d2f4-4e3c-87b0-3e25f9069045",
+        "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/event_photos%2Finception_2025%2FIMG_5257.JPG?alt=media&token=ec455cbf-7c47-4531-b21d-fab2178ed8a8"
+      ]
+    }
+  ],
+  "placementInfo": [
+    {
+      "title": "Placement Season 2025-2026",
+      "status_message": "As the pioneering batch of the B.Sc. DSAI program, our first placement season will be this year! This section will be updated with statistics as they become available. All the best!",
+      "placement_officer": {
+        "name": "Mr. Shetty Deviprasad Balakrishna",
+        "email": "deviprasadshetty@rjcollege.edu.in"
+      }
+    },
+    {
+      "title": "The Placement Process",
+      "steps": [
+        {
+          "name": "Resume Submission",
+          "step": 1,
+          "details": "All students must submit their final resume through the portal"
+        },
+        {
+          "name": "Pre-Placement Talks",
+          "details": "Companies will conduct talks to introduce their roles and answer questions.",
+          "steps": 2
+        },
+        {
+          "name": "Interviews & Tests",
+          "step": 3,
+          "details": "The schedule for technical tests and interviews will be posted here"
+        }
+      ]
+    }
+  ],
+  "timetables": [
+    {
+      "schedule": {
+        "Thursday": {
+          "lectures": [
+            {
+              "professor": "Mujtaba",
+              "time": " 7:00 AM - 9:00 AM",
+              "subject": "Python"
+            },
+            {
+              "professor": "Sujata",
+              "time": "9:00 AM - 10:00 AM",
+              "subject": "Introduction to DS"
+            }
+          ],
+          "classroom": "New Lab"
+        },
+        "Tuesday": {
+          "lectures": [
+            ""
+          ],
+          "classroom": ""
+        },
+        "Wednesday": {
+          "lectures": [
+            {
+              "professor": "Rahul",
+              "time": "7:00 AM - 8:00 AM",
+              "subject": "Descriptive Statistics"
+            },
+            {
+              "professor": "Sujata",
+              "time": "8:00 AM - 9:00 AM",
+              "subject": "Introduction to DS"
+            },
+            {
+              "professor": "Sujata",
+              "time": "9:00 AM - 10:00 AM",
+              "subject": "Green Computing"
+            }
+          ],
+          "classroom": "New Lab"
+        },
+        "Monday": {
+          "lectures": [
+            {
+              "professor": "Rahul",
+              "time": "7:00 AM - 8:00 AM",
+              "subject": "Descriptive Statistics"
+            },
+            {
+              "professor": "Sujata",
+              "time": "8:00 AM - 9:00 AM",
+              "subject": "Introduction to DS"
+            },
+            {
+              "professor": "Wasif",
+              "time": "9:00 AM - 10:00 AM",
+              "subject": "Vedic Math"
+            }
+          ],
+          "classroom": "P1"
+        },
+        "Friday": {
+          "lectures": [
+            {
+              "subject": "Descriptive Statistics",
+              "time": "7:00 AM - 8:00 AM",
+              "professor": "Rahul"
+            },
+            {
+              "subject": "Mathematics",
+              "time": "8:00 AM - 10:00 AM",
+              "professor": "Wasif"
+            },
+            {
+              "subject": "Soft Skill",
+              "time": "10:00 AM - 11:00 AM",
+              "professor": "Darpana"
+            },
+            {
+              "professor": "Akash",
+              "time": "11:00 AM - 12:00 PM",
+              "subject": "Financial Management"
+            }
+          ],
+          "classroom": "P1"
+        },
+        "Saturday": {
+          "lectures": [
+            {
+              "professor": "Rahul",
+              "time": "7:00 AM - 8:00 AM",
+              "subject": "Descriptive Statistics"
+            },
+            {
+              "professor": "Wasif",
+              "time": "8:00 AM - 9:00 AM",
+              "subject": "Vedic Math"
+            },
+            {
+              "subject": "Soft Skill",
+              "time": "9:00 AM - 10:00 AM",
+              "professor": "Darpana"
+            },
+            {
+              "subject": "Financial Management",
+              "time": "10:00 AM - 12:00 PM",
+              "professor": "Akash"
+            }
+          ],
+          "classroom": "P1"
+        }
+      },
+      "timetable_pdf_url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/timetables%2F2025-26%20Time%20table%20-%20FYBSC.pdf?alt=media&token=59895ce9-6749-4be8-94f9-bb68e791a372",
+      "semester_name": "First Year - Semester 1"
+    },
+    {
+      "schedule": {
+        "Thursday": {
+          "lectures": "",
+          "classroom": "Saboo Lab"
+        },
+        "Tuesday": {
+          "lecture": [
+            {
+              "professor": "Sujata",
+              "time": "8:00 AM - 10:00 AM",
+              "subject": "ADBMS"
+            },
+            {
+              "professor": "Mujtaba",
+              "time": "10:00 AM - 12:00 PM",
+              "subject": "Data Structures"
+            },
+            {
+              "professor": "Rahul",
+              "time": "12:00 PM - 1:00 PM",
+              "subject": "Statistical Testing"
+            }
+          ],
+          "Classroom": "New Lab"
+        },
+        "Wednesday": {
+          "lectures": [
+            {
+              "subject": "Data Structures",
+              "time": "10:00 AM - 12:00 PM",
+              "professor": "Mujtaba"
+            },
+            {
+              "subject": "Statistical Testing",
+              "time": "12:00 PM - 1:00 PM",
+              "professor": "Rahul"
+            }
+          ],
+          "classroom": "Room 51"
+        },
+        "Monday": {
+          "lectures": [
+            {
+              "professor": "Rahul",
+              "time": "10:00 AM - 1:00 PM",
+              "subject": "Statistical Testing"
+            }
+          ],
+          "classroom": "Room 44"
+        },
+        "Friday": {
+          "lectures": [
+            {
+              "professor": "Sujata",
+              "time": "7:00 AM - 9:00 AM",
+              "subject": "ADBMS"
+            }
+          ],
+          "classroom": "New Lab"
+        },
+        "Saturday": {
+          "lectures": [
+            {
+              "professor": "Sujata",
+              "time": "11:00 AM - 12:00 PM",
+              "subject": "Research Methods - I"
+            },
+            {
+              "subject": "E-Commerce",
+              "time": "12:00 PM - 2:00 PM",
+              "professor": "Shweta"
+            }
+          ],
+          "classroom": "Room 44/L7"
+        }
+      },
+      "timetable_pdf_url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/timetables%2F2025-26%20Time%20table%20-%20SYBSC.pdf?alt=media&token=55e9018d-2926-4e53-831d-e031a60126d6",
+      "semester_name": "Second Year - Semester 3"
+    },
+    {
+      "schedule": {
+        "Thursday": {
+          "lectures": [
+            {
+              "professor": "Mujtaba",
+              "time": "9:00 AM - 10:00 AM",
+              "subject": "Big Data"
+            },
+            {
+              "professor": "Shweta",
+              "time": "10:00 AM - 12:00 PM",
+              "subject": "Introduction to Cloud Computing"
+            }
+          ],
+          "classroom": "Room 50"
+        },
+        "Tuesday": {
+          "lectures": [
+            {
+              "professor": "Deepak",
+              "time": "7:00 AM - 10:00 AM",
+              "subject": "Data Mining"
+            }
+          ],
+          "classroom": "P1"
+        },
+        "Wednesday": {
+          "lectures": [
+            {
+              "professor": "Deepak",
+              "time": "7:00 AM - 9:00 AM",
+              "subject": "Business Intelligence"
+            },
+            {
+              "professor": "Shweta",
+              "time": "9:00 AM - 10:00 AM",
+              "subject": "Fuzzy Logic"
+            }
+          ],
+          "classroom": "DSAI Class"
+        },
+        "Monday": {
+          "lectures": [
+            {
+              "professor": "Deepak",
+              "time": "7:00 AM - 9:00 AM",
+              "subject": "Business Intelligence"
+            },
+            {
+              "professor": "Sujata",
+              "time": "9:00 AM - 12:00 PM",
+              "subject": "DVT"
+            }
+          ],
+          "classroom": "New Lab"
+        },
+        "Saturday": {
+          "lectures": [
+            {
+              "professor": "Mujtaba",
+              "time": "7:00 AM - 8:00 AM",
+              "subject": "Big Data"
+            },
+            {
+              "professor": "Shweta",
+              "time": "8:00 AM - 9:00 AM",
+              "subject": "Introduction to Cloud Computing"
+            },
+            {
+              "professor": "Shweta",
+              "time": "9:00 AM - 10:00 AM",
+              "subject": "Fuzzy Logic"
+            },
+            {
+              "professor": "Sujata",
+              "time": "10:00 AM - 11:00 AM",
+              "subject": "DVT"
+            },
+            {
+              "professor": "Deepak",
+              "time": "11:00 AM - 12:00 PM",
+              "subject": "Data Mining"
+            }
+          ],
+          "classroom": "Room 50"
+        },
+        "Friday": {
+          "lectures": [
+            {
+              "professor": "",
+              "time": "7:00 AM - 9:00 AM",
+              "subject": "Project"
+            },
+            {
+              "professor": "Shweta",
+              "time": "9:00 AM - 10:00 AM",
+              "subject": "Introduction to Cloud Computing"
+            },
+            {
+              "professor": "Shweta",
+              "time": "10:00 AM - 12:00 PM",
+              "subject": "Fuzzy Logic"
+            }
+          ],
+          "classroom": "Saboo Lab"
+        }
+      },
+      "timetable_pdf_url": "https://firebasestorage.googleapis.com/v0/b/dsai-app.firebasestorage.app/o/timetables%2F2025-26%20Time%20table%20-%20TYBSC.pdf?alt=media&token=9c8cf537-2c3b-4051-b837-4c486bff6648",
+      "semester_name": "Third Year - Semester 5"
+    }
+  ],
+  "sessions": [
+    {
+      "speaker": "Mr. Rajesh Mahadik",
+      "speaker_title": "Founder & CEO - Rujul Industries",
+      "date": "2025-08-02",
+      "time": "10:00 AM",
+      "title": "Seminar on Cybersecurity and Safety",
+      "category": "Seminar",
+      "venue": "MPSS Hall, Ramniranjan Jhunjhunwala College",
+      "organizers": "Department of Data Science and AI in association with Rotary Club of Thane Horizon"
+    },
+    {
+      "speaker": "Rahul Yadav",
+      "date": "2025-06-20 to 2025-06-26",
+      "time": "8:00 AM to 10:00 AM",
+      "title": "Bridge Course: Statistics using Excel",
+      "category": "Bridge Course",
+      "topics_covered": [
+        "Basics of Excel",
+        "Basics of Statistics",
+        "Statistics using Excel"
+      ],
+      "venue": "P1 and New Lab",
+      "organizers": "Department of Data Science and AI"
+    },
+    {
+      "speaker": "Abhishek Maurya",
+      "theme": "COCO: Career Option and Opportunities",
+      "speaker_title": "Solutions Architect / Senior Cloud Engineer",
+      "date": "2025-06-14",
+      "time": "10:00 AM",
+      "title": "Session on Cloud Computing",
+      "category": "Technical Session",
+      "venue": "Saboo Lab",
+      "organizers": "Department of Data Science and AI"
+    },
+    {
+      "speaker": "Darpana More",
+      "date": "2025-06-20",
+      "time": "9:00 AM to 10:00 AM",
+      "title": "Ace Your Space: Resume & Job Skills",
+      "category": "Placement Training",
+      "topics_covered": [
+        "Resume Writing Essentials",
+        "Tailoring Your Resume",
+        "LinkedIn & Digital Presence",
+        "Soft Skills & Professional Etiquette"
+      ],
+      "tagline": "Step Into Success: Resume Writing & Placement Skills Training",
+      "venue": "Room P1",
+      "organizers": "Department of Data Science and AI"
+    }
+  ],
+  "adminInfo": [
+    {
+      "category": "College Timings",
+      "library_hours": "8:00 AM - 6:00 PM (Monday to Saturday)",
+      "office_hours": "10:00 AM - 2:00 PM (Monday to Saturday)",
+      "canteen_hours": "8:00 AM - 7:00 PM"
+    },
+    {
+      "librarian_email": "shubhangivedak@rediffmail.com",
+      "principal_name": "Dr. Himanshu Dawda",
+      "general_email": "rjcollege@rjcollege.edu.in",
+      "librarian_phone": "25151763",
+      "address": "Ramniranjan Jhunjhunwala College, Opposite Ghatkopar Railway Station, Ghatkopar West, Mumbai 400086",
+      "category": "Contact Information",
+      "landline_1": "022 25151763",
+      "librarian_name": "Mrs. Shubhangi M. Vedak",
+      "landline_2": "022 25152731"
+    },
+    {
+      "category": "College Policies",
+      "attendance_policy": "A minimum of 75% attendance is required in each subject to be eligible for the final examination",
+      "id_card_policy": "Students must wear their ID card at all times on campus",
+      "anti_ragging_helpline": "1800-180-5522"
+    }
+  ],
+  "coCurricularActivities": [
+    {
+      "name": "Rotaract Club of Ramniranjan Jhunjhunwala College",
+      "benefits": [
+        "Gain professional development and leadership skills",
+        "Opportunities to travel via INTER DISTRICT YOUTH EXCHANGE (IDYE) and INTER CLUB YOUTH EXCHANGE (ICYE) programs",
+        "A great place to network",
+        "Adds weightage to your resume"
+      ],
+      "example_activities": [
+        "Organizing blood donation camps or community health check-ups",
+        "Visiting and volunteering at local orphanages or old-age homes",
+        "Fundraising events for social causes",
+        "Hosting guest speaker sessions on career and professional development",
+        "Arranging workshops on skills like public speaking, resume building, or leadership",
+        "Conducting tree plantation or environmental awareness campaigns"
+      ],
+      "enrollment_status": {
+        "2": "Compulsory",
+        "3": "Optional",
+        "1": "Compulsory"
+      },
+      "achievements": [
+        "Secured the 5th rank in District 3141 AARA",
+        "Received 9 Acers, 18 individual nominations, 15 project nominations, and 1 Crown"
+      ],
+      "type": "Social Service & Leadership",
+      "website_url": "https://sites.google.com/view/rcrj/home?authuser=0",
+      "group": "CC",
+      "credits": 2,
+      "description": "An organization dedicated to self-development through social service and friendship, allowing you to develop professionally and discover your leadership skills.",
+      "registration_fees": {
+        "2024-2025": {
+          "2": 1000,
+          "1": 1000
+        }
+      },
+      "contact_person": {
+        "name": "Rtr. Tarun Ootwal",
+        "contact_number": "9167659609",
+        "email": "rcrjcollege@gmail.com"
+      }
+    },
+    {
+      "name": "NSS (National Service Scheme)",
+      "benefits": [
+        "Develops leadership and communication skills",
+        "Contributes to societal well-being",
+        "Provides a certificate of participation"
+      ],
+      "example_activities": [
+        "Blood Donation Camps",
+        "Tree Plantation Drives",
+        "Social Awareness Rallies"
+      ],
+      "enrollment_status": {
+        "2": "Compulsory",
+        "3": "Optional",
+        "1": "Compulsory"
+      },
+      "time_commitment": "",
+      "type": "Community Service",
+      "group": "CC",
+      "mission_statement": "To work for the betterment of the community and instill a sense of social responsibility in students",
+      "registration_fee": 10,
+      "credits": 2,
+      "description": "A student-centric activity that helps build character, look at life beyond self, and learn to prioritize societal needs over personal wants.",
+      "contact_person": {
+        "contact_number": "9004199004",
+        "department": "DSAI",
+        "name": "Dan Singh"
+      }
+    },
+    {
+      "name": "NCC (National Cadet Corps)",
+      "enrollment_process": [
+        {
+          "name": "Interview",
+          "step": "1",
+          "details": "Candidates will undergo a preliminary interview to assess their motivation and suitability"
+        },
+        {
+          "name": "Physical Fitness Test",
+          "step": "2",
+          "details": "A standard physical fitness test will be conducted to ensure candidates meet the required physical standards"
+        },
+        {
+          "name": "Written Test",
+          "step": "3",
+          "details": "A written test covering general knowledge and aptitude will be administered"
+        }
+      ],
+      "type": "Discipline & Training",
+      "website_url": "https://www.rjcollege.edu.in/rjcncc/",
+      "group": "CC",
+      "credits": 2,
+      "description": "A youth wing of the Indian Armed Forces that focuses on discipline, leadership, and quasi-military training",
+      "registration_fees": {
+        "status": "No Registration Fee"
+      },
+      "contact_person": {
+        "name": "Juo Atmaj Rajesh Akolkar",
+        "department": "DSAI",
+        "contact_number": "9137037286"
+      }
+    },
+    {
+      "name": "DLLE (Lifelong Learning and Extension)",
+      "vision_statement": "To create social awareness among students while learning.",
+      "benefits": [
+        "Receive 10 grace marks",
+        "Receive a Certificate from Mumbai University",
+        "Personal development",
+        "Self assessment for future planning",
+        "Development of organizing skills",
+        "Improved writing and presentation skills",
+        "Enhanced social awareness"
+      ],
+      "example_activities": [
+        "Status of Women in Society (SWS)",
+        "Career Project (CP)",
+        "National Institute of Open Schooling (NIOS)",
+        "Industry Orientation Project (IOP)",
+        "Annapurna Yojana (APY)",
+        "Population Education Club (PEC)"
+      ],
+      "enrollment_status": {
+        "2": "Compulsory",
+        "3": "optional",
+        "1": "Compulsory"
+      },
+      "mission_statement": "To reach the unreached.",
+      "type": "Extension Work",
+      "website_url": "https://www.rjcollege.edu.in/dlle/",
+      "group": "CC",
+      "registration_fee": 150,
+      "credits": 2,
+      "description": "The DLLE Unit is run by the University of Mumbai and was started in our college in 2007-08 to work for the community through various student projects.",
+      "contact_person": {
+        "name": "Dr. Vaishali Raikwar",
+        "department": "Physics",
+        "facebook": "https://www.facebook.com/dlle.rj",
+        "contact_number": "9987443998",
+        "email": "dlleextensionrj@gmail.com"
+      }
+    }
+  ],
+  "_migration": {
+    "source": "User-provided Firestore JSON export",
+    "status": "Firestore collection data imported into local JSON",
+    "collections_imported": {
+      "Faculty": 8,
+      "courses": 1,
+      "events": 3,
+      "placementInfo": 2,
+      "timetables": 3,
+      "sessions": 4,
+      "adminInfo": 3,
+      "coCurricularActivities": 4
+    },
+    "notes": [
+      "Firebase Storage URLs found in records are preserved as-is. Storage assets have not been migrated.",
+      "libraryBooks remains sourced from the existing hardcoded catalogue; it was not included in the Firestore export."
+    ]
+  }
+}
